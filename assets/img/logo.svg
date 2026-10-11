@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 74" role="img" aria-labelledby="ssLogoTitle">
+  <title id="ssLogoTitle">Sanitation Soldiers emblem: a shield with a broom and a water line</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 3 L59 13 V37 C59 55 47 66 32 71 C17 66 5 55 5 37 V13 Z" stroke="#123b26" stroke-width="3"/>
+    <path d="M32 10 L53.5 18.5 V37 C53.5 51.5 43.5 60.5 32 65 C20.5 60.5 10.5 51.5 10.5 37 V18.5 Z" stroke="#c9a227" stroke-width="1.4"/>
+    <path d="M32 21 V44" stroke="#123b26" stroke-width="2.6"/>
+    <path d="M26 44 H38" stroke="#123b26" stroke-width="2.6"/>
+    <path d="M27.5 46.5 L23 55" stroke="#123b26" stroke-width="2.4"/>
+    <path d="M30 46.5 L28 56" stroke="#123b26" stroke-width="2.4"/>
+    <path d="M32 46.5 V56.5" stroke="#123b26" stroke-width="2.4"/>
+    <path d="M34 46.5 L36 56" stroke="#123b26" stroke-width="2.4"/>
+    <path d="M36.5 46.5 L41 55" stroke="#123b26" stroke-width="2.4"/>
+    <path d="M13 61 Q20 57.5 27 61 T41 61 T55 61" stroke="#c9a227" stroke-width="1.6"/>
+  </g>
+</svg>

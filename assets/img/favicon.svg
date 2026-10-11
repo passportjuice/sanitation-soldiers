@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sanitation Soldiers">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#123b26"/>
+  <g fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 15 V33"/>
+    <path d="M24 33 H40"/>
+    <path d="M27 35.5 L22.5 46.5"/>
+    <path d="M29.5 35.5 L28 48"/>
+    <path d="M32 35.5 V48.5"/>
+    <path d="M34.5 35.5 L36 48"/>
+    <path d="M37 35.5 L41.5 46.5"/>
+    <path d="M18 54 Q25 50.5 32 54 T46 54" stroke-width="2.4"/>
+  </g>
+</svg>
