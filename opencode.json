@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "paths": [
+      "C:/Users/hp/AVEC/skills",
+      "C:/Users/hp/AVEC/superpowers/skills",
+      "C:/Users/hp/AVEC/stop-slop",
+      "C:/Users/hp/AVEC/humanizer",
+      "C:/Users/hp/AVEC/ui-ux-pro-max-skill/.claude/skills",
+      "C:/Users/hp/AVEC/marketingskills/skills"
+    ]
+  }
+}
